@@ -1,0 +1,145 @@
+Computer Science (BS)
+College of Engineering
+
+Program Website
+
+Taxonomy Codes
+CIP: 11.0701 | HEGIS: 0701.00 | NYSED: 81257
+
+Overview
+Curriculum
+Program Description
+The Department of Computer Science is part of the Ann S. Bowers College of Computing and Information Science and is affiliated with both the College of Arts and Sciences and the College of Engineering. Students in either college may major in computer science. Computer science majors take courses covering algorithms, artificial intelligence, data structures, programming languages, systems, theory and offer a wide variety of electives. Students in Engineering must complete a minimum of 121 total credit hours to graduate. In addition to the major requirements, all students must meet Engineering graduation requirements.
+
+Admission
+Applicants must meet all of the following criteria:
+
+A grade of C (not C-) or better in all CS courses and Math courses, including all critical math courses listed below.
+An average GPA of 2.5 or better between CS 2110 or CS 21121 and CS 2800 or CS 2802.
+An average GPA of 2.3 or better in MATH 1120 or MATH 1920  and any other completed critical math courses from the following list2: MATH 2940, MATH 2210, MATH 4710, BTRY 3080/STSCI 3080, CS 4850, ECON 3130, ECE 3100, and ENGRD 2700.
+Qualifying courses must be taken at Cornell for a letter grade. Courses used in the affiliation GPA computations may be repeated if the original course grade was below a C. The most recent grade will be used for all repeated courses.
+1
+Alternatively, an average of 2.5 or better in ECE 2400/ENGRD 2140 and CS 2800/CS 2802 and CS 3110.
+The CS GPA calculation may be supplemented by the following courses: CS 3110 and CS 3410/CS 3420.
+ 
+2
+If only AP/CASE credit appears, then another critical math course must be taken at Cornell to affiliate.
+
+Honors Program
+The B.S. degree with honors is granted to engineering students who satisfy the requirements given on the "Undergraduate Study and Graduation Requirements" page with a set of coherent courses and research activities that satisfy the following requirements.
+
+The program consists of at least 9 credits beyond the minimum required for graduation as follows:
+
+at least one CS course (at least 3 credit hours) at or above the 5000-level with a grade of A– or better (no seminars)1
+at least two 3 credit semesters of CS 4999 Independent Reading and Research2, with grades of A– or better each semester
+Honors determinations are made during the senior year. Students wanting to be considered for the honors program should notify the undergraduate office in the Department of Computer Science at ugrad@cs.cornell.edu. The subject line for this message should read "HONORS TRACK". Address related questions to the same e-mail address or visit the Computer Science website for more information on eligibility.
+
+Note: CS 5000-level course (with a faculty member) that co-meets with a CS 4000-level course are not eligible for honors.
+
+Program Information
+Instruction Mode: In Person
+Location: Ithaca, NY
+Minimum Credits for Degree: 123
+Program Requirements
+Course List
+Code	Title	Hours
+Math:	
+Course One:	
+Select one of the following:	4
+MATH 1910
+Calculus for Engineers	
+AP, IB, GCE Advanced Placement and Advanced Standing Credit
+Engineering Math Advanced Standing Exam (CASE)
+Course Two:	
+MATH 1920	Multivariable Calculus for Engineers	4
+Course Three:	
+MATH 2940	Linear Algebra for Engineers	4
+Introductory Computing:	
+Select one of the following:	4
+CS 1110
+Introduction to Computing: A Design and Development Perspective	
+CS 1112
+Introduction to Computing: An Engineering and Science Perspective	
+AP Computers Science, IB Computer Science, or CS CASE Exam Credits
+Select one of the following:	4
+CS 2110
+Object-Oriented Programming and Data Structures (crosslisted)	
+CS 2112
+Object-Oriented Design and Data Structures - Honors (crosslisted)	
+Computer Science Core:	
+CS 2800	Mathematical Foundations of Computing	3-4
+or CS 2802	Mathematical Foundations of Computing - Honors
+CS 3110	Data Structures and Functional Programming	4
+CS 3410	Computer System Organization and Programming	4
+or CS 3420	Embedded Systems
+CS 3700	Foundations of AI Reasoning and Decision-Making	3-4
+or CS 3780	Introduction to Machine Learning
+CS 4410	Operating Systems	3-4
+or CS 4414	Systems Programming
+CS 4820	Introduction to Analysis of Algorithms	4
+Computer Science Electives:	
+Complete two 4000+ level computer science electives 1	
+Computer Science Practicum or Project Course:	
+Select one of the following:	
+CS 3152
+Introduction to Computer Game Architecture	
+CS 4121
+Practicum in Compilers	
+CS 4152
+Advanced Topics in Computer Game Architecture	
+CS 4321
+Practicum in Database Systems	
+CS 4411
+Practicum in Operating Systems	
+CS 4621
+Computer Graphics Practicum	
+CS 4701
+Practicum in Artificial Intelligence	
+CS 4740
+Natural Language Processing	
+CS 5150
+Software Engineering	
+CS 5152
+Advanced Topics in Computer Game Architecture	
+CS 5412
+Cloud Computing	
+CS 5414
+Distributed Computing Principles	
+CS 5625
+Interactive Computer Graphics	
+CS 5643
+Physically Based Animation for Computer Graphics	
+Technical Electives:	
+Complete three 3000+ level technical electives that have a qualifying prerequisite as defined by the Computer Science Undergraduate website 2	
+External Specialization:	
+Complete an “external specialization” consisting of three courses from outside the CS department. 3	
+Elective Requirement:	
+A major-approved elective consisting of a single 3+ credit course or a combination of courses equaling 3 or more credits total. 4	
+1
+CS 3700 or CS 3780 allowed if not used towards a CS core requirement.
+
+CS 4090, CS 4997, CS 4998, CS 4999 are not allowed.
+
+2
+See the Computer Science Undergraduate website for the list of prerequisite courses that qualify to count as a Technical Elective.
+at most one 2000+ level course allowed.
+
+CS 4090, CS 4997, and CS 4998 are not allowed.
+
+3
+Courses must be 3000-level or greater and three or more credits each.
+
+Courses can be cross-listed with CS but must be taken as the non-CS listing. 
+
+Courses cannot be “parented” by the CS department.
+
+The following courses are NOT accepted: courses parented by the CS department, LING 4474, INFO 3300, INFO 4300, INFO 5300
+
+4
+Roughly speaking, all academic courses (inside or outside of CS) count. No PE courses, courses numbered at or below 10xx, AP/IB, or ROTC courses below the 3000 level are allowed.
+
+ 
+Additional Information
+All electives described above must be courses of at least 3 credits, with the exception of the CS project course, which is at least 2 credits, or as otherwise specified.
+
+The program is broad and rigorous, but it is structured in a way that supports in-depth study of outside areas. Intelligent course selection can set the stage for graduate study or employment in any technical area or any professional area such as business, law, or medicine. With the advisor, the computer science major is expected to put together a coherent program of study that supports career objectives and is true to the aims of a liberal education.

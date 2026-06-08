@@ -1,0 +1,26 @@
+CS MAJOR PREREQUISITE CHAIN
+=============================
+
+MATH & SCIENCE
+--------------
+MATH 1920     requires: MATH 1910
+MATH 2940     requires: MATH 1920
+PHYS 1112     requires: MATH 1910
+PHYS 2213     requires: PHYS 1112
+PHYS 1110     requires: PHYS 1112 (take concurrently)
+CHEM 2080     requires: CHEM 2090
+
+CS CORE
+-------
+CS 2800               requires: CS 111x
+ENGRD/CS 2110         requires: CS 111x (prerequisite OR corequisite), PHYS 1110 (prerequisite OR corequisite)
+CS 3410/3420/ECE 3140 requires: ENGRD/CS 2110 (prerequisite OR corequisite)
+CS 3110               requires: CS 3410 or CS 3420 or ECE 3140
+CS 4820               requires: CS 3110
+CS 4410               requires: CS 4820
+
+GENERAL REQUIREMENTS
+--------------------
+- ENGRD 2XXX must be completed (standalone Engineering Distribution requirement, Semester 4)
+- At least 6 liberal studies courses totaling a minimum of 18 credits
+- Major Elective and Advisor Approved Elective prereqs vary by chosen course

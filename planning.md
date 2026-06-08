@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The domain I chose is Unofficial Guide to CS Courses at Cornell. This knowledge is valuable because it provides extra insight and information about CS courses from the perspective of students who have actually take the courses. Official course rosters only give prerequisites and dry descriptions. They don't tell you the actual project workloads, which professors give the best feedback, or how brutal the weekly problem sets are. 
+
 ---
 
 ## Documents
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | r/Cornell | Comments on the difficulty of CS3110 | https://www.reddit.com/r/Cornell/comments/ag1yav/deleted_by_user/ |
+| 2 | r/Cornell | Describes the difficulty of CS2800 and CS3110 | https://www.reddit.com/r/Cornell/comments/1q2brio/how_hard_is_cs_3110_and_cs_2800_actually/ |
+| 3 | r/Cornell | Making the correct choice for the probability theory prerequisite for CS4780 | https://www.reddit.com/r/Cornell/comments/vhk16k/cs4780_introduction_to_machine_learning/ |
+| 4 | r/Cornell | Listing out and reviewing cs electives | https://www.reddit.com/r/Cornell/comments/10mrbgs/bestmost_useful_cs_electives/ |
+| 5 | r/Cornell | Comments answering how useful courses are for the industry and where should a student's focus be in order to maximize their learning | https://www.reddit.com/r/Cornell/comments/gls928/cs_honest_questions/ |
+| 6 | GitLab | FAQ from a peer-maintained directory providing general information on all cs courses| https://cornellcswiki.gitlab.io/faq.html |
+| 7 | CUReviews | Aggregated student reviews of the CS4780 course | https://www.cureviews.org/course/CS/4780 |
+| 8 | General Prereqs | Table showing the general idea of courses that a CS Major should take | data/cs.txt  |
+| 9 | Cornell Academic Catalog | Official BS in Computer Science requirements, affiliation GPA cutoffs, and Honors program rules. | https://catalog.cornell.edu/programs/computer-science-bs/ |
+| 10 | Engineering Handbook | Official course checklist detailing CS core requirements, credit minimums, and prerequisites. | data/engineering_handbook.txt |
 
 ---
 

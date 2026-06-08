@@ -1,0 +1,154 @@
+Major: Computer Science (CS)
+Offered by: Department of Computer Science
+
+https://www.cs.cornell.edu/undergrad
+
+ugrad@cs.cornell.edu
+
+Program Objectives
+The CS curriculum covers both the theory of algorithms and computing and their applications in science, engineering, and business. Students learn algorithmic ways of thinking and how to bring them to bear on a wide range of problems. They also study the elements of computing and information technology such as system design, problem specification, programming, system analysis and evaluation, and complex modeling.
+
+Engineering Distributions
+ENGRD 2110: Object-Oriented Programming and Data Structures (required), or
+
+ENGRD 2112: Object-Oriented Design and Data Structures-Honors
+
+Required Major Courses
+CS 2800: Mathematical Foundations of Computing or
+
+CS 2802: Mathematical Foundations of Computing –Honorsd
+
+CS 3110: Data Structures and Functional Programming
+
+CS 3410: Computer System Organization and Programming, or
+
+CS 3420/ECE 3140: Embedded Systemse
+
+CS 3700: Foundations of AI Reasoning and Decision-Making or
+
+CS 3780: Introduction to Machine Learning
+
+CS 4410: Operating Systems or CS 4414: Systems Programming
+
+CS 4820: Introduction to Analysis of Algorithms
+
+Electives
+Two CS electives numbered ≥4000; 3-credit minimum per course; CS 4090, CS 4997, CS 4998, and CS 4999 not allowed
+
+One CS project course numbered ≥4000; 2-credit minimum
+
+Three Major-Approved Technical Electives numbered ≥3000 (one 2000 level course allowed); 3-credit minimum per courses that have a qualifying prerequisite as defined by the CS undergraduate website; CS 4090, CS 4997, and CS 4998 not allowed.
+
+Major-approved Free Elective; total 3 credits
+
+Two Advisor-approved Electives; total 6 credits
+
+Three related, upper-level elective courses numbered ≥3000 (External Specialization); 3-credit minimum per course; CS courses not allowed
+
+For more information, visit www.cs.cornell.edu/undergrad
+
+Computer Science Major Check Listh
+*Prerequisite **Prerequisite or Corequisite ***Usually Taken Concurrently
+
+Common Curriculum (76-credit minimum)
+
+MATH 1910 (Semester 1) Minimum Credit Hours 4
+
+MATH 1920 (*MATH 1910, Semester 2) Minimum Credit Hours 4
+
+CS 2800 (or CS 2802)d (** CS 3110, Semester 3) Minimum Credit Hours 4
+
+MATH 2940 (*MATH 1920, Semester 3) Minimum Credit Hours 4
+
+CHEM 2090 & CHEM 2091 (Semester 1) Minimum Credit Hours 3&1/4
+
+CHEM 2080 & CHEM 2081a (or 2150) (Semester 4) Minimum Credit Hours 3&1/4
+
+PHYS 1112 (or 1116) (*MATH 1910 and ***PHYS 1110, Semester 2) Minimum Credit Hours 3/4
+
+PHYS 1110 (*MATH 1910 and ***PHYS 1112, Semester 2) Minimum Credit Hours 1
+
+PHYS 2213 (or 2217) (*PHYS 1112 and *MATH 1920, Semester 3) Minimum Credit Hours 4
+
+CS 1110 (or 1112) (Semester 1) Minimum Credit Hours 4
+
+Introduction to Engineering: ENGRI 1XXX (Semester 2) Minimum Credit Hours 3
+
+Engineering Distribution 1: ENGRD 2110 or ENGRD 2112b (*CS 111x, Semester 3) Minimum Credit Hours 4/5
+
+Engineering Distribution 2 (Semester 4) Minimum Credit Hours 3
+
+First-Year Writing Seminar 1 (Semester 1) Minimum Credit Hours 3
+
+First-Year Writing Seminar 2 (Semester 2) Minimum Credit Hours 3
+
+Liberal Studies Distribution: six courses, 18-credit minimumm 18
+
+Liberal Studies 1 (Semester 3)
+
+Liberal Studies 2 (Semester 4)
+
+Liberal Studies 3 (Semester 5)
+
+Liberal Studies 4 (Semester 6)
+
+Liberal Studies 5 (Semester 7)
+
+Liberal Studies 6 (Semester 8)
+
+Advisor-Approved Electives: 2 courses, 6-credit minimum (Semesters 5 and 6)
+
+Required Major Courses (47-credit minimum)
+
+CS 3110f (*ENGRD/CS 2110 and **CS 2800, Semester 4) Minimum Credit Hours 4
+
+CS 3410f or CS 3420 or ECE 3140e (*ENGRD/CS 2110, Semester 5) Minimum Credit Hours 4
+
+CS 3700 or CS 3780 (*CS 2800, Semester 4) Minimum Credit Hours 3
+
+CS 4410 or CS 4414 (*CS 3410 or CS 3420 or ECE 3140e,f, Semester 7) Minimum Credit Hours 3
+
+CS 4820 (*CS 3110, Semester 6) Minimum Credit Hours 4
+
+Major Electivesg
+
+CS 4000 or above Elective 1i (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+CS 4000 or above Elective 2i (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+CS Project Course (4000 or above) (Semester 5, 6, 7 or 8) Minimum Credit Hours 2
+
+External Specialization Elective 1j (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+External Specialization Elective 2j (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+External Specialization Elective 3j (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+Major-Approved Technical Elective 1k (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+Major-Approved Technical Elective 2k (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+Major-Approved Technical Elective 3k (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+Major-Approved Free Electivel (Semester 5, 6, 7 or 8) Minimum Credit Hours 3
+
+Total Required Credits 123 minimum
+
+Additional Requirements: Engineering Communications Requirementc, Two Semesters of Physical Education, swim requirement
+
+Notes
+May substitute CHEM 2150, BTRY 3080, ILRST 3080, ECE 3100, ECON 3130, MATH 2930, MATH 4710, PHYS 2214, PHYS 2218, or STSCI 3080 for CHEM 2080 & CHEM 2081. ORIE 3500 will be accepted for the CHEM 2080 & CHEM 2081 replacement only if ENGRD 2700 was previously taken. MATH 2930 is a pre- or corequisite for PHYS 2214.
+ENGRD/CS 2112 is an honors version of ENGRD/CS 2110.
+The Engineering Communications Requirement must be met and may be taken as a liberal studies, Advisor-Approved Elective, or Major course.
+CS 2802 is an honors version of CS 2800.
+ECE/ENGRD 2300 is a prerequisite for ECE 3140.
+CS 3110 and CS 3410 can be taken in the reverse order of their representation on the flowchart.
+Major electives include CS 4000+ level electives, the CS 4000+ level project course, Technical Electives, the External Specialization, and the Major-approved Elective. Courses for the probability requirement may also be included in these categories. All Major Electives must be courses of at least 3 credits with the exception of the CS project course, which is at least 2 credits, or the Major-approved Elective, which must total 3 credits. Please visit https://www.cs.cornell.edu/undergrad/rulesandproceduresengineering/choosingyourelectives for more information regarding various electives.
+There is no set order for the Major Electives. The configuration on the flowchart is one possible ordering of these electives. Selection of the electives and the order in which they are taken hinges on how the courses work together (based on content, rigor, scheduling, etc.) in a given semester.
+
+This engineering checklist is formatted to conform to the general specifications of the College of Engineering. We strongly recommend that you consult the CS department website at www.cs.cornell.edu/undergrad/rulesandproceduresengineering/engineeringchecklist to see the department version of the checklist.
+All CS 4000+ Electives must be taken under the CS rubric. CS 4090, CS 4997, CS 4998, and CS 4999 NOT allowed. Either CS 3700 or CS 3780 allowed if not used in CS core.
+The Major program includes nine (9) credits of courses outside the Major. These courses are satisfied by the External Specialization. The three courses must be related to each other (3000+ level and 3 credit minimum per course). Courses not allowed in the External Specialization are: any CS course, Independent Study courses, LING 4474, INFO 3300, INFO 4300, INFO 4302, and INFO 5300.
+Three 3000+∗ level courses of at least 3 credits each that are technical in nature, as determined by the Major, that have qualifying prerequisites as defined by the CS undergrad website. CS 4090, CS 4887, and CS 4998 are not allowed. At most, two CS 4999 classes may be taken. For other independent study options, visit the CS office on the 5th floor of Rhodes Hall. ∗At most, one 2000 level course allowed.
+An elective requirement consisting of a single 3+ credit course or a combination of courses coming to 3+ credits total. Roughly speaking, all academic courses (inside or outside of CS) count. No PE courses, courses numbered 10xx, Engineering AEWs, or ROTC courses (unless cross-listed with an academic department) are allowed.
+Students are required to complete at least six liberal studies courses totaling a minimum of 18 credits. These courses must be chosen in accordance with the policies listed in the Liberal Studies Distribution Requirements section of this handbook.
