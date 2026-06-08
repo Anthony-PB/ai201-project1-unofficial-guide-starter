@@ -1,0 +1,507 @@
+Overall
+5
+Difficulty
+3
+Workload
+4
+Professor Kilian Weinberger
+Grade A
+Major Computer Science
+I really liked taking this class with Kilian Weinberger because his lectures were very engaging! I almost never took out my phone during his classes (unlike literally every other class) and he explained the concepts super in depth.
+3/19/25
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+3
+Workload
+3
+Professor Kilian Weinberger
+Grade A
+Major Computer Science
+I learned a lot killian is very engaging
+3/19/25
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+3
+Workload
+3
+Professor Karthik Sridharan, Kilian Weinberger
+Grade A-
+Major Computer Science
+Really enjoyed Kilian's lectures! They were pretty easy to follow and were directly applicable to the HW, projects, and exams. I think Karthik teaches the spring session now, so I'm not sure how well the class is organized anymore, but he's a nice guy. Just doesn't explain things super clearly.
+12/20/24
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+4
+Workload
+4
+Professor Kilian Weinberger
+Grade N/A
+Major N/A
+Kilian is a fantastic professor and made lectures very interesting. Overall, the class was harder than I expected though. The programming assignments were very simple but finicky. Sometimes it took several extra hours to complete them due to errors with the software or forgetting to flatten something. The exams were pretty challenging mainly because you had to memorize a ton of equations that are all very similar.
+...See more
+1/24/24
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+3
+Workload
+3
+Professor Not Listed
+Grade N/A
+Major Computer and information sciences
+Took this semester with Wen Sun. Extremely doable class, programming assignments were 40% of our grade and were a piece of cake, plus they are autograded so you know when you have finished with 100%. Math psets were hard and proofy, sometimes used math I didn't really know and had to go to OH. Only 10% of your final grade though. I thought midterm and final were pretty fair, some more challenging questions but nothing crazy. Workload never felt overwhelming. Feel like I have a really great understanding of ML algorithms and concepts now that will be very useful for data science career + interviews, yippee!
+...See more
+12/11/23
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Not Listed
+Grade N/A
+Major N/A
+Class taken with Prof. Wen Sun. He is an interesting lecturer, and explains information well. HWs are very challenging but also only worth a small % of the grade. Programming assignments are easier and worth much more. Cool class and you learn a lot of interesting stuff!
+12/1/23
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+3
+Workload
+3
+Professor Not Listed
+Grade N/A
+Major Computer science
+Took with Wen Sun and Anil Damle. Very cool class and covers a lot about supervised machine learning. Projects and homework assignments are definetly doable, but midterm was difficult. Definitely more math-heavy than other CS classes, and assumes a knowledge of multivariable calculus applied to linear algebra that just isn't taught by any linear algebra or multivariable calc class at Cornell.
+...See more
+4/15/23
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Not Listed
+Grade N/A
+Major N/A
+Wen Sun is SUCH AN AMAZING professor, his explanations are always very clear and he clearly has a passion for ML. The theoretical homeworks and coding projects were usually due at the same time so that was a bit intense. But overall I left the class with a very strong understanding and greater interest in ML!
+1/31/23
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+2
+Workload
+1
+Professor Not Listed
+Grade N/A
+Major N/A
+I took it with Wen Sun and the biweekly assignments and projects were pretty easy. I used to get done with all the assignments withing 3-4 hours. There was just one mid term which was kinda hard tho.
+11/24/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+5
+Workload
+3
+Professor Christopher De Sa
+Grade N/A
+Major N/A
+Great prof! Hard prof! Rubbish course staff. I'd say a total of 5 TAs knew what they were doing. The others were running blind. They often cancelled their office hours whenever a harder homework came out.
+7/26/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+4
+Workload
+4
+Professor Christopher De Sa
+Grade N/A
+Major N/A
+Solid course - definitely goes over a lot of core ML topics with an emphasis on the theory and math. De Sa is super knowledgable and a solid lecturer, but he moves pretty fast and it's very easy to fall behind. Projects and homeworks are pretty sizable, and the prelim this semester was very difficult, but also generously curved. Office Hours are definitely helpful, though it's sometimes hard to get good explanations.
+...See more
+4/27/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Christopher De Sa
+Grade N/A
+Major N/A
+I took this class in SP 22 with Christopher De Sa. He is an awesome lecturer and always so passionate during lectures. Contents are a bit challenging but they are really useful and interesting. Problem sets and programming assignments were not easy but definitely doable. This is not an easy elective but I recommend it if you want to learn!
+4/21/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+4
+Workload
+4
+Professor Christopher De Sa
+Grade N/A
+Major N/A
+The class is very heavy in linear algebra and has some multivariable calculus, so make sure you know your stuff about these subjects. There are some basic stats concepts that you should know as well. There is a prerequisite quiz that you will have to take which will test you on the stuff noted above. The class has Python programming assignments and written homework assignments as well so expect a decent amount of work. Also, expect to study a decent amount for the midterm and final.
+...See more
+4/16/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Christopher De Sa
+Grade N/A
+Major N/A
+Class is very mathy and pretty hard but the payoff is well worth it. Highly recommend watching the weinberger lectures he explains it rly well
+4/16/22
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+3
+Professor Kilian Weinberger
+Grade N/A
+Major N/A
+The professor is great. The project is also interesting. I love machine learning.
+10/16/21
+FlagReport
+Not Liked YetHelpful? (0)
+My experience was affected by COVID-19.
+===========================================================================
+Overall
+3
+Difficulty
+3
+Workload
+3
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Joachims is not the most interesting lecturer but he is usually clear enough to understand the material. I thought the course was well organized, and the homeworks helped me learn the material. The projects were also fun.
+6/5/21
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+4
+Workload
+3
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Generally, a fair amount of work and the TAs are very helpful. Sometimes programming assignments and problem sets would align with the prelim and professors were not too understanding about the workload that was being put onto students. Overall if you do your work and pay attention to the lecture videos, you can do just fine.
+5/10/21
+FlagReport
+Not Liked YetHelpful? (0)
+My experience was affected by COVID-19.
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Nika Haghtalab, Thorsten Joachims
+Grade N/A
+Major N/A
+One of my favorite courses that I've taken at Cornell. The material was really interesting to me. There are 5 homeworks (w/ partner) which were quite time consuming so make sure to get started early and go to office hours! There are 5 individual projects but pretty fun and doable. I also thought Profesors Joachims and Haghtalab were generous with their slip day policy.
+5/1/21
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+3
+Workload
+3
+Professor Nika Haghtalab, Thorsten Joachims
+Grade N/A
+Major N/A
+The class overall was OK if you have some knowledge of machine learning. The pset's didn't expand on your knowledge much and I personally wasn't a fan of the grading rubric because it was too rigid. The programming assignments in my opinion - were a waste of time. The final and midterms were hard but I loved the conceptual aspect of it
+4/18/21
+FlagReport
+Not Liked YetHelpful? (0)
+My experience was affected by COVID-19.
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+4
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+LOVED this class. Fall 2020 was incredibly well-organized and well-taught. Definitely in my top 3 favorite classes at Cornell. Exams were extremely fair as well. The discussions were a good addition, made the homeworks trivial as the questions were almost the same as discussion. Take this class!
+2/15/21
+FlagReport
+Not Liked YetHelpful? (0)
+My experience was affected by COVID-19.
+===========================================================================
+Overall
+5
+Difficulty
+3
+Workload
+4
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+There was a lot of work (either a coding assignment and normal homeworks every week) but not necessarily too hard, doable if you go to discussion/lecture or watch asynchronously (covid semester). Coding assignments can be frustrating at times trying to get the right ordering of things but once again doable. This class sucks up more time than I thought it would, which is my biggest takeaway. The information is super pertinent and well taught if you're into ML or Data Science and is definitely worth taking.
+...See more
+12/21/20
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+4
+Difficulty
+3
+Workload
+5
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+A cool class! The lectures are very straightforward and easy to follow. I think I learned a lot in this class and all the assignments (coding assignments and psets) were very applicable to class material. Expect a lot of work though.
+12/5/20
+FlagReport
+Not Liked YetHelpful? (0)
+My experience was affected by COVID-19.
+===========================================================================
+Overall
+3
+Difficulty
+3
+Workload
+2
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+PROS: This course's material is legitimately quite interesting, the exams are extremely fair, the homework problems and projects are chosen to force you to learn the material really well, the grading policies are good, and the workload is light. CONS: This course's focus is very theoretical and on pre-deep learning paradigms, so if you want to do modern machine learning, its two lectures on neural nets aren't going to get you very far. Professor Joachims and professor Haghtalab are only okay lecturers, but they focus more on saying things and not putting them on slides, so learning can be very slow if you're not an auditory learner.
+...See more
+1/1/20
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+3
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Thorsten and Nika Haghtalab are great professors, though Nika is a better lecturer. She spends more time on examples and on giving the intuition to things, which can be quite confusing because there is a lot of math. In fact, this course is all math (with limited programming projects) and that's not a bug, it's a feature. You should not be applying ML without understanding the theory and being aware of fairness and privacy issues, which Thorsten covered at the end of the class.
+...See more
+12/13/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+4
+Workload
+3
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Thorsten and Nika are great professors, though I think Nika is a better teacher because she goes over more details and spends more time on explaining the intuition. Lectures can be quite dense and I've gotten lost/had to rewatch multiple lectures because the course tries to pack a lot of material into 1 semester. Agree with other reviewers that this class won't teach you practical application of ML, but that's not a bug, it's a feature. You should not try applying ML without understanding the theory and issues of fairness and privacy.
+...See more
+12/13/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+3
+Workload
+2
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+You will not come out of this class as a machine learning expert. Content is interesting, but the programming assignments are small, isolated, and do not give you good real world experience. Lectures with Thorsten are hard to follow. Nika's were really good. Sometimes you feel a little bogged down in notation, theory, proofs, when all you really want are the applications. Nevertheless, would recommend taking this class for CS majors. Problem sets and assignments were less frequent than once a week, and only 1 prelim.
+...See more
+12/12/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+1
+Difficulty
+3
+Workload
+2
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+So poorly taught. I space out every 5 minutes in lecture and the material is taught in an unintuitive way :(
+10/25/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+3
+Difficulty
+4
+Workload
+3
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Not always a whole lot of work, but when there is, it's pretty hard. Also very hard to understand the material in lecture.
+10/25/19
+FlagReport
+Not Liked YetHelpful? (1)
+===========================================================================
+Overall
+4
+Difficulty
+4
+Workload
+2
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+The professors (Thorsten Joachims & Nika Haghtalab) are alright, but sometimes go over material too fast. But this is no problem as lectures are recorded and re-released. The psets are usually 3 problems with a few subparts. The projects are longer but go much deeper in the material by making you implement real ML algorithms. The exams are significantly easier than the homework,.
+...See more
+10/25/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+3
+Workload
+4
+Professor Kilian Weinberger
+Grade N/A
+Major N/A
+(Fall 2018) Killian is hilarious and an amazing professor! Projects are not difficult if you have experience with ML and python (or julia). Exams are long but not hard as well.
+5/3/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+5
+Difficulty
+3
+Workload
+4
+Professor Kilian Weinberger
+Grade N/A
+Major N/A
+Killian is a great lecturer and really top in the field. Jupyter notebooks aren't too hard and homeworks are graded on "effort" but you definitely have to study a lot for the tests.
+4/30/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+-
+Difficulty
+3
+Workload
+-
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Kilian covers the core of ML with good intuition and the necessary math rigor. If you want to learn ML, this is a great starting point. As someone with previous ML exposure, I still learned useful ideas in areas I hadn't focused on much (e.g. boosting). Some reviews hype too much tho - very inaccessible prof & altho clear + funny, not super engaging at times.
+1/9/19
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+-
+Difficulty
+3
+Workload
+-
+Professor Thorsten Joachims
+Grade N/A
+Major N/A
+Killian's the best. Cares if students understand the concept & simplifies thing into easy to understand concepts. He also makes strange German sounds like "ehhh" instead of "uhhh" or "oh baby." Enjoys mentioning viagra and wechat.
+11/3/18
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+-
+Difficulty
+3
+Workload
+-
+Professor N/A
+Grade N/A
+Major N/A
+Killian Weinberger & Chris De Sa (Spring 2018). My favorite class at Cornell! Killian's a great lecturer and makes ML super interesting, especially at 8:40 am. Although Chris De Sa tries really hard, he isn't a good lecturer. His explanations jump all over the place and a lot people are confused afterwards. If you memorize the lecture notes for the exams, you should be good. Don't procrastinate on the pre-exam (which isn't bad if you take the time to do it). The projects just are a verbatim of the lecture notes in code format, but they do take time. The final (optional) project is cool because you have to do everything by scratch. Overall, it's a great course - super interesting & exciting.
+...See more
+5/24/18
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
+Overall
+-
+Difficulty
+3
+Workload
+-
+Professor N/A
+Grade N/A
+Major N/A
+Kilian Weinberger is a fantastic lecturer and stimulates your interest in the subject very well. Chris de Sa is also a very good lecturer, but is a new Professor and is not as experienced (yet!). Projects were useful for learning the material, but everyone gets 100% so your grade ends up being based off your prelim/final score. Make sure you know your linalg.
+5/9/18
+FlagReport
+Not Liked YetHelpful? (0)
+===========================================================================
