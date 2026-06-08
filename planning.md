@@ -62,7 +62,7 @@ My corpus mixes short Reddit opinions (1–3 sentences) with longer FAQ and hand
 **Embedding model:**
 all-MiniLM-L6-v2 via sentence-transformers. This model is a good balance of performance and speed for general English text, which fits my Reddit and FAQ documents.
 **Top-k:**
- k=4. This is a good starting point to capture multiple perspectives without overwhelming the generation stage. It allows for a mix of opinions and facts while keeping the context manageable for the LLM.
+ k=4 or 5. This is a good starting point to capture multiple perspectives without overwhelming the generation stage. It allows for a mix of opinions and facts while keeping the context manageable for the LLM.
 **Production tradeoff reflection:**
 Different embedding model -> A more powerful model like a fine-tuned BERT variant could improve accuracy on domain-specific language (e.g., course names, CS jargon) but would increase latency and cost. In a real deployment, I would consider the user experience more heavily and might opt for a faster model as users would expect quick responses.
 Token limit -> If I had a larger token limit for the generation stage, I could retrieve more chunks (e.g., top-10) to provide a richer context and more diverse opinions. However, this would also increase the chance of including irrelevant information, so I would need to balance quantity with relevance.
