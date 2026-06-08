@@ -1,0 +1,28 @@
+Original Prompt:
+CS4780: Introduction to Machine Learning Prerequisites
+It’s not on the roster so I assume not but would ECE3100 count as a probability theory prerequisite for CS4780 because I know it works for the CS probability requirement and it’s probably the easiest choice out of all of the others (BTRY3080, ECON3130, MATH4710, ENGRD2700…) so I want to make sure I’m not not making the wrong choice here.
+
+Comment 1:
+Yes it should be fine, I took 4780 with 3100 and I was ok
+
+Comment 2:
+Wouldn’t Econ 3130 be a better choice? The professor is great, I believe the median is around an A-, and incoming Econ knowledge isn’t really needed (or so I’ve heard)
+
+Reply Level 1:
+How is it compared to the other options? I thought they were relatively around the same difficulty.
+
+Reply Level 2:
+I have no clue about the ECE class but I know that math 4710 and engrd 2700 arent for the weak. 3080 isn’t terribly difficult but the professors are usually trash. 3130 goes more in depth but the professors are much better and you should come out with a decent grade
+
+Comment 3:
+it is most definitely not the easiest out of the others the median was a B this semester
+
+Reply Level 1:
+Wait really, I got it from my TA last semester that it was an easy course. If not, which do you recommend?
+
+Reply Level 2:
+
+2700 will be the easiest. i personally really liked 3100 but it’s a fair amount of work. if you’re looking for a strong preparation for ML tho you should take 3100
+
+Comment 4:
+I didn’t take a probability theory prereq course and didn’t have any issues in 4780 (finished with an A, and felt I enjoyed the course), granted I was familiar with probability from a good high school course on it. I don’t think you can go wrong with any of the courses you listed.

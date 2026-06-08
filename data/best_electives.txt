@@ -1,0 +1,95 @@
+Original Prompt:
+Best/Most Useful CS Electives?
+I'm looking through a large category of CS electives and currently have a background in ML and Data. I wanted to know what CS electives (in the 4000+) were the most useful and most practical in material that transferred to skillsets for career building in SWE/Tech.
+
+I'm not looking for theory-based courses but rather classes that teach useful material/skillsets that I can really apply for realistic future scenarios. Not dissing Theory, I'm just not interested in research or grad school.
+
+Comment 1:
+Here's what I would rate each one as someone who's taken a good portion of stuff in the ML + systems categories, and compiling what I've heard from friends:
+
+
+most useful for industry:
+
+- CS 4120/4121: Compilers. While you probably won't be working on actual compilers in your job, the sheer amount of coding and design you need to do in this class makes sure that you have some very strong software engineering and systems fundamentals. You also become very strong at OOP.
+
+- CS 5150: Software Engineering. You literally just do a SWE project with a company or something, so this is basically as applicable as it gets.
+
+- CS 4999: Independent Reading & Research. Okay this is kind of cheating but if you can do research with a professor related to your career path, you can learn an abundant amount by working on a project alongside PhD student(s) or postdoc(s).
+
+
+useful for industry:
+
+- CS 4701: AI Prac. This could be in the category above, but it's the tradition in this class to just not give a shit and submit garbage made a day before the deadline. If you put in a lot into this class, you can actually learn a lot and get 2 credits + an easy A for it.
+
+- CS 4780: Machine Learning. Does teach you a good amount of ML foundations and the labs enforce some coding implementation, but hides a lot of the gorey data engineering you actually have to do in industry. Probably would get some more Jupyter notebooks in before you start a data science or ML job in addition to this course.
+
+- CS 4787: Machine Learning Systems. Chris De Sa is a great lecturer, and this course is definitely a challenge. The projects have a lot of toy examples but give you some very useful deep learning implementation experience. If you plan on following a data science/ML career path, I would recommend this course for sure.
+
+- CS 4320: Databases / Databases Prac. I think the usefulness of this class is kind of overstated. You do learn useful database principles, but the prac just has you implement an RDMS in Java, which is painful and something you'll literally never have to do.
+
+- CS 5412: Cloud Computing. Birman is an interesting guy. Class goes onto a lot of tangents and the professor ends up presenting his own research a lot, but the class project can give you some very applicable skills for using Azure/AWS. Teaches you the fundamentals of cloud computing and some distributed systems content.
+
+- CS 5414: Distributed Systems. This class is challenging and the topics can be theoretical, but if you plan on doing systems-related work it can be eye-opening and make you a better engineer.
+
+- CS 3152/4152: Game Dev. This class is pretty famous for being hard to get into, and it is a lot of fun. I would put this in the category above if you're masochistic enough to work in the gaming industry. However, I would say that this class definitely gets you plenty of experience on working with a cross-functional team, and for that it is useful.
+
+
+could be useful:
+
+- CS 4820: Algorithms. You have to take this anyway. Pretty useful for interviews and teaches you how to think algorithmically, but you won't be needing to do DP at work anytime soon. You honestly learn everything you need for interviews from 2110 and some Leetcode outside of school, and you definitely won't be needing to prove your algorithms correct.
+
+- CS 4410: OS. You have to take this as well. The reason I don't think this is quite that useful is because Cornell's OS course basically doesn't enforce any types of implementation, so you end up having a loose understanding of OS concepts but not actually knowing how to use them. Particularly, if you took this class with Rachit you could get away with not having written a single line of code (lol)
+
+- CS 4670: Computer Vision. Bharath is a good lecturer and the class is chill and all but honestly, this class goes over some pretty legacy methods in computer vision. They are fundamental to the field but are not applicable (who the fuck uses photometric stereo). All I came out of this class knowing was that aliasing can happen when you subsample an image.
+
+- CS 4740: NLP. This class is kind of a shitshow (don't know if it got much better last semester). Assumes a lot of PyTorch knowledge before you enter the class. I personally haven't taken this, but have heard from others that the pain is far more than the gain.
+
+- CS 4620: Computer Graphics. Weirdly, the class currently uses TypeScript which is definitely not the norm in industry. You will learn the fundamentals of graphics, but the class isn't particularly applicable.
+
+
+don't see a way these could help you in your job:
+
+- CS 4110: PL. Unless your job is doing inductive proofs / you plan on doing a PL PhD, this class is not very applicable.
+
+- CS 4812: Quantum Info Processing. Yeah I don't think anyone's getting an entry-level job out of college doing quantum computing. You're going to be doing some CRUD-related stuff, which this class is the opposite of.
+
+- CS 4810: Intro to Theory of Computing. Pretty self-explanatory; it has "theory" in the name.
+
+- CS 4160: Formal Verification. Companies just don't really have time to formally verify their programs (and it's hard to do it with such big systems). Course is good though.
+
+- CS 4830: Cryptography. Unless World War 3 starts and you need to break the next Enigma, probably not too useful.
+
+Reply Level 1:
+Any thoughts on CS 4300?
+
+Reply Level 2:
+Loved it. One exam with 99 median, very easy otherwise. Professor just talked about the kardashians and had us analyze the episode transcript. Super manageable.
+
+Comment 2:
+Theory courses are worth considering, regardless. I was a math double major during undergrad (not even a particularly smart one) and that was very beneficial to me in the industry--in data storage of all things.
+
+E.g. my team was tasked with adding data checksums to our filesystem, and due to my background I was the one who ended up implementing the actual checksum computation code (not from scratch, I repurposed an open source Intel library, but still). It was an incredibly cool project that meshed assembly programming and Galois theory, and ended up being the big resume booster that I took away from my time at the company. Honestly I'd imagine if any one thing got me into the M.Eng. program here, it was that.
+
+So yeah, I would highly recommend taking at least a bit of more theory-oriented stuff. We're just applied mathematicians after all.
+
+Reply Level 1:
+
+i deeply second this, though i think it might be an unpopular opinion (the theory courses i took had far smaller class sizes than the more "useful" cs courses)
+
+for what it's worth, i thought DB (4320) was the only non-theoretical and "useful" elective i took, and now i barely remember anything useful from the class (i also now work exclusively with nonrelational dbs, oops)
+
+contrarily i took formal verification (4160), talked about in an interview, and got placed in a team with a super cool backend written in purely functional scala. formal verification itself isn't something i literally use in industry but the course proved immensely useful in other ways (cool team, renewed interest in fp, preference towards concise + immutable code, etc)
+
+and 4830 was just immensely fun imo. it is fine (and good) to take courses based on a criteria of "this looks more fun/interesting/well-taught than that" versus "this looks more useful than that"
+
+Comment 3:
+The reinforcement learning class I took with Wen Sun in 2021 was phenomenal. Not sure if he is teaching anything similar right now.
+
+Reply Level 1:
+Good to hear! I'm going to be taking his class and I think he is teaching 4780 next semester.
+
+Reply Level 2:
+Did you like RL? I'm about to take it this semester
+
+Comment 4:
+Was wondering about the exact same thing

@@ -1,0 +1,19 @@
+Original Prompt:
+how hard is cs 3110 and cs 2800 (actually)
+
+Comment 1:
+Here is my actual syllabus paragraph regarding CS 2800 as a prereq for CS 3110:
+
+> CS 2800 is an unenforced co-requisite for 3110. That means you should have already completed 2800, or should take it at the same time as 3110. The reason for the co-requisite is not primarily about topics or material; rather, the reason is mathematical preparation. Functional programming is a mathematical approach to thinking about computation that differs from languages like Python and Java. You will be better prepared for 3110 if you honor the 2800 co-requisite. Many students have told me about their happiness at discovering the connections between the two courses.
+
+YMMV.
+
+Also there may come a day when the Registrar enforces the pre/co-req. I for one look forward to that amazing and glorious day.
+
+Comment 2:
+just put in the work and you'll be fine
+
+Comment 3:
+for context: i took both of these courses last spring
+
+the actual course materials for both are reasonable imo: 3110 shares a lot of its data structures content with 2110/2112, 2800 and 3110 share a lot of math content, and eichhorn’s “lecture notes” for 2800 are exceptional and helped me learn the content really thoroughly. it’s definitely professor-dependent though — both courses’ structure and difficulty vary a lot between semesters, so beyond using ratemyprofessor and cureviews i’d say just ask upperclassmen how a professor was. i’d also recommend taking 2800 before or at the same time as 3110, as clarkson mentions here. if you feel comfortable with the content from 2110/2112 these courses shouldn’t be horrible, and even if it’s shaky it’ll hopefully be a doable lift. good luck!!

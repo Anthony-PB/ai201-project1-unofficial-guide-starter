@@ -1,0 +1,75 @@
+Original Prompt:
+CS- Honest Questions
+Im a freshman right now and I have some honest questions for CS majors or anyone in the SWE/CS-related career/CS academia sphere at Cornell. Mind you I have only taken 1110, 2110, 2800
+
+I've seen some posts before about how the CS curriculum has been made easier to accommodate the larger class sizes, is this true?
+
+What proportion of people in CS are there out of passion, as opposed to just wanting a good job?
+
+This may be hard to answer, but if you are in the top of CS classes at Cornell, are you actually "good" at CS? How does a top-10% CS student at Cornell compare to others around the country?
+
+Could classes alone help you get good programming skills? Or is time better spent trying to do stuff for project teams, clubs, outside projects, etc.?
+
+Comment 1:
+I don't know if this is true beyond the introductory courses. After 2110/2800, CS classes get a lot smaller. Making 1110/2110 easier would make some sense since those classes attract people who don't want to be CS majors but would benefit from some instruction in programming and very basic CS.
+
+Having passion for CS and wanting a good job aren't mutually exclusive. I can't imagine going through the entire CS curriculum and getting a software engineering job without enjoying the material at some level. But you'll find that a lot of people are career oriented because not everyone has the luxury of going to college to chase their passions.
+
+I'm assuming you mean undergraduate CS. The answer depends on how you define being "good" at CS. If all you care about is starting salary, the average is $105,751, which is well above the national starting average for CS majors. That figure comes from a survey in which only 34% of grads filled out, so that figure is probably close to what a top 10% student at Cornell can expect to earn. This is comparable to another top CS school like MIT, which is around $110,247.
+
+Beyond intro to programming classes, the focus in upper level CS classes isn't to improve your programming skills. You'll naturally get better at programming through your CS projects of course, but I personally think that you won't be able to get good programming skills through classes alone. Everyone has their own definition of what it means to be a good programmer, but basically everyone agrees that it involves more than just writing code that works. Some skills I think are important are
+
+Writing code that other developers can understand and use
+
+Being able to efficiently write code for a project with goals that aren't fixed and may be constantly changing.
+
+Understanding and handling criticisms of your code by various members of your team, who may or may not be more experienced than you
+
+Being able to constructively critique other people's code without being a dick
+
+Notice that the skills I listed have less to do with raw technical ability, and are more related to how you interact with other people. Some of these skills you'll learn in the classroom, and some of these skills you probably won't completely develop until after college when you become a software engineer. The CS classes here do a great job of teaching you technical skill, but the people side of software development can't really be learned in the classroom. There's no best way of picking up these people skills, but you should find some outside projects to work on with other people (either through an internship, club, project team, open source software, etc.)
+
+I sincerely doubt that there's much of a difference between top students at Cornell and top students at peer institutions. But if you're interested about how well students at other schools are taught CS, you're better off asking at their respective subreddits.
+
+Comment 2:
+I used to be a big believer in "oh man they made the CS curriculum easier and now it's bs" but now that I am at the tail end of my CS degree I think it's more subtle than this.
+
+Of the core classes: CS 2800 is a class that has definitely decreased in difficulty a lot and I personally think some of that was not necessary. CS 3110/3410 have been made somewhat easier, but I think more importantly they've just removed a lot of the annoying/painful parts that don't add to learning but discourage students from continuing with CS. OS and Algo haven't really changed in difficulty over the past few years. Most of the electives have not really changed in difficulty, excluding a few cases where they're trying to make them more rigorous (like AI I think)
+
+I think the truth is that some classes have been made easier but it's not out of a desire to make class sizes larger, but to make CS a less painful experience, while still preserving educational value. Having TAd for a big class before, there are definitely ways classes change to accomodate larger class sizes, but it's more like ways of making it easier to grade and hold office hours for large numbers of students. Sometimes this results in easier/more formulaic homework.
+
+Having done an internship at a reasonably large tech company, I think that being top 10% at Cornell CS definitely makes you a top student relative to other CS programs (not calling myself top 10% because I dont think I am hehe). Good CS students at Cornell are very much comparable to ones at places like CMU or Stanford, as well as smart kids from lesser known schools.
+
+As far as your programming skills, if you want to get better at software engineering, project teams/outside projects will help you get there faster since most CS classes dont explicitly teach software engineering. However, if you take classes with a lot of programming you will get pretty good at programming just by doing that, and you'll also have some cool specialized knowledge like compilers or graphics or ML to show for it.
+
+Reply Level 1:
+CS 4120[1] will 100% give you lots of programming experience, including an assignment where the slightest remaining bug could cause the whole system to fail in a way that's massively difficult to pinpoint. I both love and hate that class.
+
+Other pracs like OS prac give some decent programming practice too, but it's on a whole different scale.
+
+Comment 3:
+Hi, december new grad chiming in
+
+I've seen some posts before about how the CS curriculum has been made easier to accommodate the larger class sizes, is this true?
+
+I think in the past the workload for some classes in the CS curriculum were pretty difficult to manage and a lot of students really struggled to keep up with the material. For classes like 3110, the content hasn't really changed, and the workload has decreased a bit which is why people complain about it being easier - but personally I think it has helped students learn the material a lot better without being overwhelmed by work. Other schools like Berkeley have "weeder" classes for CS, but it feels like we're going in the opposite direction and trying to get more people to try out the intro CS classes, which I think is a good thing.
+
+What proportion of people in CS are there out of passion, as opposed to just wanting a good job?
+
+I'm not sure how many people are passionate about CS, but they certainly wouldn't be very good at their job if they didn't find it interesting. There's a lot of areas to specialize in so I think its easy to find a role that you're passionate about (outside of being a software engineer there's also product management, UI/UX, consulting, research, etc and it takes different personalities to be good at those things).
+
+This may be hard to answer, but if you are in the top of CS classes at Cornell, are you actually "good" at CS? How does a top-10% CS student at Cornell compare to others around the country?
+
+Yes, in fact I'd say that if you're average or better here you'd probably become a great software engineer. Every year we have hundreds of students interning at top tech companies, and tons of people end up at great companies for full time. As an example, every given summer there's about 50 Cornell students interning at Facebook, and there's almost 20 of us going to FB for full time this year (and that's for just one company).
+
+That said it's not like our top 10% is straight up better than the top 10% at other schools; I've met top students from other schools that are really good at what they do and passionate about their work. It's more like better CS programs == larger percentage of graduates are successful, and by that metric we do really well.
+
+Could classes alone help you get good programming skills? Or is time better spent trying to do stuff for project teams, clubs, outside projects, etc.?
+
+The big project based classes (3110, compilers, practicums) are good for teaching you to be a good programmer. Project teams aren't vital but they help you learn to work in a team. Outside projects are definitely a great way to also explore and gain experience but it's hard to make progress on them while you're busy with schoolwork unless you're super motivated.
+
+Comment 4:
+
+What proportion of people in CS are there out of passion, as opposed to just wanting a good job?
+
+25-30% or fewer
