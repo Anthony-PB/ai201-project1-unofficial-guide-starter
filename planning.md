@@ -20,18 +20,18 @@ The domain I chose is Unofficial Guide to CS Courses at Cornell. This knowledge 
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| #   | Source                   | Description                                                                                                                          | URL or location                                                                             |
-| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| 1   | r/Cornell                | Comments on the difficulty of CS3110                                                                                                 | https://www.reddit.com/r/Cornell/comments/ag1yav/deleted_by_user/ and difficulty_cS3110.txt                          |
-| 2   | r/Cornell                | Describes the difficulty of CS2800 and CS3110                                                                                        | https://www.reddit.com/r/Cornell/comments/1q2brio/how_hard_is_cs_3110_and_cs_2800_actually/ and CS2800_CS3110.txt |
-| 3   | r/Cornell                | Making the correct choice for the probability theory prerequisite for CS4780                                                         | https://www.reddit.com/r/Cornell/comments/vhk16k/cs4780_introduction_to_machine_learning/ and  prob_prereq.txt |
-| 4   | r/Cornell                | Listing out and reviewing cs electives                                                                                               | https://www.reddit.com/r/Cornell/comments/10mrbgs/bestmost_useful_cs_electives/   and best_electives.txt          |
-| 5   | r/Cornell                | Comments answering how useful courses are for the industry and where should a student's focus be in order to maximize their learning | https://www.reddit.com/r/Cornell/comments/gls928/cs_honest_questions/       and honest.txt                |
-| 6   | GitLab                   | FAQ from a peer-maintained directory providing general information on all cs courses                                                 | https://cornellcswiki.gitlab.io/faq.html                                                    |
-| 7   | CUReviews                | Aggregated student reviews of the CS4780 course                                                                                      | https://www.cureviews.org/course/CS/4780                                                    |
-| 8   | General Prereqs          | Table showing the general idea of courses that a CS Major should take                                                                | data/cs.txt                                                                                 |
-| 9   | Cornell Academic Catalog | Official BS in Computer Science requirements, affiliation GPA cutoffs, and Honors program rules.                                     | https://catalog.cornell.edu/programs/computer-science-bs/        or data/catalog.txt                           |
-| 10  | Engineering Handbook     | Official course checklist detailing CS core requirements, credit minimums, and prerequisites.                                        | data/engineering_handbook.txt                                                               |
+| #   | Source                     | Description                                                                                                                          | URL or location                                                                                                   |
+| --- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| 1   | Unofficial Cornell CS Wiki | Comments on the difficulty of CS3110 and general information                                                                         | about_cS3110.txt                                                                                                  |
+| 2   | r/Cornell                  | Describes the difficulty of CS2800 and CS3110                                                                                        | https://www.reddit.com/r/Cornell/comments/1q2brio/how_hard_is_cs_3110_and_cs_2800_actually/ and CS2800_CS3110.txt |
+| 3   | r/Cornell                  | Making the correct choice for the probability theory prerequisite for CS4780                                                         | https://www.reddit.com/r/Cornell/comments/vhk16k/cs4780_introduction_to_machine_learning/ and prob_prereq.txt     |
+| 4   | r/Cornell                  | Listing out and reviewing cs electives                                                                                               | https://www.reddit.com/r/Cornell/comments/10mrbgs/bestmost_useful_cs_electives/ and best_electives.txt            |
+| 5   | r/Cornell                  | Comments answering how useful courses are for the industry and where should a student's focus be in order to maximize their learning | https://www.reddit.com/r/Cornell/comments/gls928/cs_honest_questions/ and honest.txt                              |
+| 6   | Unofficial Cornell CS Wiki | FAQ from a peer-maintained directory providing general information on all cs courses                                                 | https://cornellcswiki.gitlab.io/faq.html                                                                          |
+| 7   | CUReviews                  | Aggregated student reviews of the CS4780 course                                                                                      | https://www.cureviews.org/course/CS/4780                                                                          |
+| 8   | General Prereqs            | Table showing the general idea of courses that a CS Major should take                                                                | data/cs.txt                                                                                                       |
+| 9   | Cornell Academic Catalog   | Official BS in Computer Science requirements, affiliation GPA cutoffs, and Honors program rules.                                     | https://catalog.cornell.edu/programs/computer-science-bs/ or data/catalog.txt                                     |
+| 10  | Engineering Handbook       | Official course checklist detailing CS core requirements, credit minimums, and prerequisites.                                        | data/engineering_handbook.txt                                                                                     |
 
 ---
 
@@ -62,10 +62,11 @@ My corpus mixes short Reddit opinions (1–3 sentences) with longer FAQ and hand
 **Embedding model:**
 all-MiniLM-L6-v2 via sentence-transformers. This model is a good balance of performance and speed for general English text, which fits my Reddit and FAQ documents.
 **Top-k:**
- k=4 or 5. This is a good starting point to capture multiple perspectives without overwhelming the generation stage. It allows for a mix of opinions and facts while keeping the context manageable for the LLM.
+k=4 or 5. This is a good starting point to capture multiple perspectives without overwhelming the generation stage. It allows for a mix of opinions and facts while keeping the context manageable for the LLM.
 **Production tradeoff reflection:**
 Different embedding model -> A more powerful model like a fine-tuned BERT variant could improve accuracy on domain-specific language (e.g., course names, CS jargon) but would increase latency and cost. In a real deployment, I would consider the user experience more heavily and might opt for a faster model as users would expect quick responses.
 Token limit -> If I had a larger token limit for the generation stage, I could retrieve more chunks (e.g., top-10) to provide a richer context and more diverse opinions. However, this would also increase the chance of including irrelevant information, so I would need to balance quantity with relevance.
+
 ---
 
 ## Evaluation Plan
@@ -75,13 +76,13 @@ Token limit -> If I had a larger token limit for the generation stage, I could r
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| #   | Question | Expected answer |
-| --- | -------- | --------------- |
-| 1   |    What do students say about the difficulty of problem sets in CS3110?      |         Students describe CS3110 as having challenging weekly OCaml problem sets; some students call it one of the hardest required CS courses        |
-| 2   |     What are the most commonly recommended CS electives for students interested in ML/AI?     |         CS4780, CS4782, and CS4787 are frequently mentioned4What are the minimum GPA requirements to affiliate with the CS major at Cornell Engineering?Students must maintain a certain GPA in core courses; the official catalog states specific cutoffs5What do students say about the workload and project structure in CS4780?Students note heavy theoretical content and programming projects; CUReviews comments reflect mixed opinions on difficulty        |
-| 3   |    What courses do students recommend as prerequisites before taking CS4780?      |        Students recommend taking a solid probability course (like MATH 4710 or ECE 3100) before CS4780         |
-| 4   |     What are the minimum GPA requirements to affiliate with the CS major at Cornell Engineering?     |         to affiliate with the CS major at Cornell Engineering?Students must maintain a certain GPA in core courses; the official catalog states specific cutoffs, C is the absolute minimum generally but there are grouped courses that need a higher average gpa     |
-| 5   |     What do students say about the workload and project structure in CS4780?     |        Students note heavy theoretical content and programming projects; CUReviews comments reflect mixed opinions on difficulty         |
+| #   | Question                                                                                     | Expected answer                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | What do students say about the workload in CS3110?                         | Students describe CS3110 as having challenging weekly OCaml problem sets; some students call it one of the hardest required CS courses. Heavy workload.                                                                                                                                                                                                                                                                                                               |
+| 2   | What are the most commonly recommended CS electives for students interested in ML/AI?        | CS4780, CS4782, and CS4787 are frequently mentioned4What are the minimum GPA requirements to affiliate with the CS major at Cornell Engineering?Students must maintain a certain GPA in core courses; the official catalog states specific cutoffs5What do students say about the workload and project structure in CS4780?Students note heavy theoretical content and programming projects; CUReviews comments reflect mixed opinions on difficulty |
+| 3   | What courses do students recommend as prerequisites before taking CS4780?                    | Students recommend taking a solid probability course (like MATH 4710 or ECE 3100) before CS4780                                                                                                                                                                                                                                                                                                                                                      |
+| 4   | What are the minimum GPA requirements to affiliate with the CS major at Cornell Engineering? | to affiliate with the CS major at Cornell Engineering?Students must maintain a certain GPA in core courses; the official catalog states specific cutoffs, C is the absolute minimum generally but there are grouped courses that need a higher average gpa                                                                                                                                                                                           |
+| 5   | What do students say about the workload and project structure in CS4780?                     | Students note heavy theoretical content and programming projects; CUReviews comments reflect mixed opinions on difficulty                                                                                                                                                                                                                                                                                                                            |
 
 ---
 
@@ -105,7 +106,7 @@ Token limit -> If I had a larger token limit for the generation stage, I could r
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-Raw Documents (Reddit, CUReviews, txt files)
+Raw Documents (html files, txt files)
 |
 v
 [Document Ingestion — Python / pdfplumber / requests]

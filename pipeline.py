@@ -207,21 +207,21 @@ def load_and_chunk() -> list[dict]:
     chunks = chunk_documents(documents)
     print(f"Total chunks: {len(chunks)}")
 
-    if len(chunks) < 50:
-        print("[WARNING] Fewer than 50 chunks — chunks may be too large or documents too short.")
-    elif len(chunks) > 2000:
-        print("[WARNING] More than 2,000 chunks — chunks may be too small.")
+    # if len(chunks) < 50:
+    #     print("[WARNING] Fewer than 50 chunks — chunks may be too large or documents too short.")
+    # elif len(chunks) > 2000:
+    #     print("[WARNING] More than 2,000 chunks — chunks may be too small.")
 
     # --- Inspect 5 random chunks ---
-    print()
-    print("=" * 60)
-    print("5 representative chunks (random sample)")
-    print("=" * 60)
-    sample = random.sample(chunks, min(5, len(chunks)))
-    for i, chunk in enumerate(sample, 1):
-        print(f"\n[{i}] source={chunk['source']}  length={len(chunk['text'])} chars")
-        print("-" * 50)
-        print(chunk["text"])
+    # print()
+    # print("=" * 60)
+    # print("5 representative chunks (random sample)")
+    # print("=" * 60)
+    # sample = random.sample(chunks, min(5, len(chunks)))
+    # for i, chunk in enumerate(sample, 1):
+    #     print(f"\n[{i}] source={chunk['source']}  length={len(chunk['text'])} chars")
+    #     print("-" * 50)
+    #     print(chunk["text"])
 
     return chunks
 

@@ -152,8 +152,8 @@ if __name__ == "__main__":
     embed_chunks(chunks)
 
     # Test retrieval
-    print()
-    print("=" * 60)
-    print("Retrieval test — 3 eval queries")
-    print("=" * 60)
-    test_retrieval()
+    # print()
+    # print("=" * 60)
+    # print("Retrieval test — 3 eval queries")
+    # print("=" * 60)
+    # test_retrieval()
